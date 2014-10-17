@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mag:home|Door43 (mag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mag|d43-mag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mag/archive/master.zip|d43-mag.zip]]
+
+**Recent Changes**
+{{changes>ns = mag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mag|Ethnologue data]]
+
